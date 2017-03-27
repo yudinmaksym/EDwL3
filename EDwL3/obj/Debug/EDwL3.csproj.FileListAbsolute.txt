@@ -1,0 +1,6 @@
+c:\users\админ\documents\visual studio 2015\Projects\EDwL3\EDwL3\bin\Debug\EDwL3.exe.config
+c:\users\админ\documents\visual studio 2015\Projects\EDwL3\EDwL3\bin\Debug\EDwL3.exe
+c:\users\админ\documents\visual studio 2015\Projects\EDwL3\EDwL3\bin\Debug\EDwL3.pdb
+c:\users\админ\documents\visual studio 2015\Projects\EDwL3\EDwL3\obj\Debug\EDwL3.csprojResolveAssemblyReference.cache
+c:\users\админ\documents\visual studio 2015\Projects\EDwL3\EDwL3\obj\Debug\EDwL3.exe
+c:\users\админ\documents\visual studio 2015\Projects\EDwL3\EDwL3\obj\Debug\EDwL3.pdb
